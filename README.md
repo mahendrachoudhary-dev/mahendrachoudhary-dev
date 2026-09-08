@@ -90,16 +90,6 @@ A modern, responsive multi-page business website created for a construction comp
 
 [![Live Website](https://img.shields.io/badge/Live_Website-Visit-6C5CE7?style=for-the-badge&logo=netlify&logoColor=white)](https://earnest-choux-23f640.netlify.app/)
 
-## GitHub Activity
-
-<div align="center">
-
-![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendrachoudhary-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrachoudhary-dev&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
 ## Let's Connect
 
 I'm currently open to opportunities where I can contribute, learn, and grow as a web developer.
